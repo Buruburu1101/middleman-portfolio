@@ -1,10 +1,10 @@
-- name: Longest Word Game
-  description: Decent description of the app
+- name: Chef On Demand
+  description: A website that you can order a chef to provide cooking at your home or delivery hand-made dishes for you.
   image: projects/placeholder.png
   url: https://www.google.com
 
-- name: Movie Watchlist
-  description: Decent description of the app
+- name: DocStash AI
+  description: An application to allow you to communicate with your documents
   image: projects/placeholder.png
   url: https://www.google.com
 
