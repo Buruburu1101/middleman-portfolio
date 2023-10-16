@@ -5,8 +5,8 @@
 
 - name: DocStash AI
   description: An application to allow you to communicate with your documents
-  image: projects/placeholder.png
-  url: https://www.google.com
+  image: projects/docstashai.png
+  url: https://www.docstash.ai/users/sign_in
 
 - name: Airbnb
   description: Decent description of the app
